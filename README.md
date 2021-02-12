@@ -13,5 +13,4 @@
 * return and handle an error (used log package, return multiple values).
 * Learning to use Slice (like array) and random function.
 * Learning to use MAP.
-
-
+* Learning to work with tests in the Go Lang.
