@@ -12,4 +12,6 @@
 * to use modules and importations (call your code from another module), 
 * return and handle an error (used log package, return multiple values).
 * Learning to use Slice (like array) and random function.
+* Learning to use MAP.
+
 
