@@ -7,8 +7,7 @@ import (
 	"example.com/greetings"
 )
 
-
-func main(){
+func main() {
 	// Set properties of the predefined Logger, incluiding
 	// the log entry prefix an a flag to disable printing
 	// the time, source file, and line number.
@@ -16,7 +15,7 @@ func main(){
 	log.SetFlags(0)
 
 	// Request a greeting message.
-	message, err := greetings.Hello("")
+	message, err := greetings.Hello("Rafael")
 
 	// If an error was returned, print it to the console and
 	// exit the program.
