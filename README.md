@@ -18,3 +18,6 @@
 #### 3- Three_gowiki
 * First example of Web Applications
 * Use Slices and Data Structures
+* Use Log
+* Use Http protocol
+* HTML render
